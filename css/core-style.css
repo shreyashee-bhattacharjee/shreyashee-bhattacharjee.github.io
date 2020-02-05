@@ -766,6 +766,11 @@ img.about-me {
     margin-bottom: 0;
 }
 
+.video iframe {
+    text-align: center;
+    width: 150%;
+}
+
 /* :: 8.0 Follow Instagram Area CSS */
 
 .follow-me-instagram-area {
